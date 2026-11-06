@@ -1,0 +1,6 @@
+{
+  "name": "BongoMart - Bangladesh E-Commerce",
+  "description": "Modern full-stack Bangladeshi e-commerce platform with BDT currency, bKash, Nagad, SSLCommerz, district-based shipping, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
